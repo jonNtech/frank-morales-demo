@@ -6,6 +6,7 @@ This is a live link:
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript, bootstrap
 This is personal portfolio website for a client I had. 
+
 ## Optimizations
 *(optional)*
 Workout schedule
@@ -19,3 +20,4 @@ Take a look at these couple examples that I have in my own portfolio:
 **Recipe Bookster:** https://github.com/jonNtech/RecipeBookster
 **Puedo-travel:** https://https://github.com/jonNtech/Puedo-travel
 **Steakhouse website:** https://github.com/jonNtech/steakhouse-website
+![Frank-Morales](https://user-images.githubusercontent.com/31232174/200432686-eea50d7b-bad7-4b1e-b15b-060f56412027.gif)
